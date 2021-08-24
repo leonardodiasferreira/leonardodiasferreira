@@ -29,7 +29,7 @@ themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, h
 - 👁️ I’m currently learning DATA SCIENCE & DATA ENGINEERING
 - 🤝 I’m looking to collaborate on R&D & AI PROJECTS
 - 📫 How to reach me: SEU E-MAIL
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&theme=dark)
 
 
